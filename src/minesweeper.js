@@ -5,7 +5,7 @@ console.log(board[1].join(' | '));
 console.log(board[2].join(' | '));
 };
 
-const board = [
+let board = [
 [' ', ' ', ' '], //0th index
 [' ', ' ', ' '], //1st index
 [' ', ' ', ' '] //2nd index
